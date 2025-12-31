@@ -1,0 +1,10 @@
+{
+  "methods": [
+    {
+      "name": "Support",
+      "price": 5,
+      "currency": "USD",
+      "link": "https://paypal.me/yourname"
+    }
+  ]
+}

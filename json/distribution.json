@@ -1,0 +1,10 @@
+{
+  "files": [
+    {
+      "name": "main.obb",
+      "url": "https://github.com/USERNAME/samp-mobile-content/releases/download/v1/main.obb",
+      "size": 524288000,
+      "path": "Android/obb/com.touch.mobile.dark/"
+    }
+  ]
+}

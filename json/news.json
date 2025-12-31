@@ -1,0 +1,11 @@
+{
+  "articles": [
+    {
+      "title": "Welcome",
+      "description": "Server is online",
+      "image": "https://raw.githubusercontent.com/USERNAME/samp-mobile-content/main/images/news.jpg",
+      "date": "2025-01-01",
+      "url": "https://github.com/USERNAME"
+    }
+  ]
+}
