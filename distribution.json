@@ -5,12 +5,13 @@
   "rss": "https://touch-rp.com/api/launcer/news",
 
   "cdnLauncher": "https://apk.io/REPO/launcher",
-  "cdnCache": "https://raw.githubusercontent.com/dragonfamillis-cyber/samp-mobile-content/main/mobile/fullandlite.json",
+  "cdnCache": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/full_list.json",
 
   "launcher": "https://apk.io/REPO/launcher/app-release.apk",
   
-  "cache": "https://raw.githubusercontent.com/dragonfamillis-cyber/samp-mobile-content/main/mobile/fullandlite.json",
-  "cacheMode": "https://raw.githubusercontent.com/dragonfamillis-cyber/samp-mobile-content/main/mobile/testalso.json",
+  "cache": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/full_list.json",
+  "cacheMode": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/full_list.json",
 
-  "servers": "https://raw.githubusercontent.com/dragonfamillis-cyber/samp-mobile-content/main/mobile/servers.json"
+  "servers": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/full_list.json"
 }
+
