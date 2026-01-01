@@ -1,0 +1,15 @@
+{
+    "client_config": {
+        "version_code": 114,
+        "url_launcher": "/",
+        "url_cache_files": "https://server3.sampmobile.com/files/files.json",
+        "reklam_ayar_durum": 1,
+        "admin_nickleri": [
+            "Matite",
+            "Venimus Holmes",
+            "Freezer",
+            "Erdi",
+            "okan"
+        ]
+    }
+}
