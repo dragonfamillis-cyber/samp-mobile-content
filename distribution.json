@@ -1,0 +1,16 @@
+{
+  "projectName": "Touch Mobile",
+  "packageName": "com.touch.mobile.dark",
+  "appVersion": "0.0.39",
+  "rss": "https://touch-rp.com/api/launcer/news",
+
+  "cdnLauncher": "https://USERNAME.github.io/REPO/launcher",
+  "cdnCache": "https://USERNAME.github.io/REPO/cache",
+
+  "launcher": "https://USERNAME.github.io/REPO/launcher/app-release.apk",
+  
+  "cache": "https://USERNAME.github.io/REPO/cache/cache.json",
+  "cacheMode": "https://USERNAME.github.io/REPO/cache_snow/cache_snow.json",
+
+  "servers": "https://USERNAME.github.io/REPO/servers.json"
+}
