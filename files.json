@@ -1,0 +1,22 @@
+{
+  "files": [
+    {
+      "name": "CINFO.BIN",
+      "path": "CINFO.BIN",
+      "url": "https://server3.sampmobile.com/files/CINFO.BIN",
+      "size": 634084
+    },
+    {
+      "name": "gtasatelem.set",
+      "path": "gtasatelem.set",
+      "url": "https://server3.sampmobile.com/files/gtasatelem.set",
+      "size": 392
+    },
+    {
+      "name": "stream.ini",
+      "path": "stream.ini",
+      "url": "https://server3.sampmobile.com/files/stream.ini",
+      "size": 197
+    }
+  ]
+}
