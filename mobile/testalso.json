@@ -1,0 +1,28 @@
+{
+  "cache_snow": [
+    {
+      "id": 1,
+      "name": "anim.img",
+      "bytes": "10942464",
+      "path": "storage/emulated/0/Music/anim.img",
+      "url": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/data_full/anim/anim.img",
+      "gpu": "all"
+    },
+    {
+      "id": 2,
+      "name": "cuts.img",
+      "bytes": "270096384",
+      "path": "storage/emulated/0/Music/cuts.img",
+      "url": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/data_full/anim/cuts.img",
+      "gpu": "all"
+    },
+    {
+      "id": 3,
+      "name": "ped.ifp",
+      "bytes": "1433248",
+      "path": "storage/emulated/0/Music/ped.ifp",
+      "url": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/data_full/anim/ped.ifp",
+      "gpu": "all"
+    }
+  ]
+}
