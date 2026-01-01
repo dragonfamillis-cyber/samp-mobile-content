@@ -1,16 +1,16 @@
 {
   "projectName": "Touch Mobile",
   "packageName": "com.touch.mobile.dark",
-  "appVersion": "0.0.39",
+  "appVersion": "DRNNN",
   "rss": "https://touch-rp.com/api/launcer/news",
 
-  "cdnLauncher": "https://USERNAME.github.io/REPO/launcher",
-  "cdnCache": "https://USERNAME.github.io/REPO/cache",
+  "cdnLauncher": "https://apk.io/REPO/launcher",
+  "cdnCache": "https://raw.githubusercontent.com/dragonfamillis-cyber/samp-mobile-content/main/mobile/fullandlite.json",
 
-  "launcher": "https://USERNAME.github.io/REPO/launcher/app-release.apk",
+  "launcher": "https://apk.io/REPO/launcher/app-release.apk",
   
-  "cache": "https://USERNAME.github.io/REPO/cache/cache.json",
-  "cacheMode": "https://USERNAME.github.io/REPO/cache_snow/cache_snow.json",
+  "cache": "https://raw.githubusercontent.com/dragonfamillis-cyber/samp-mobile-content/main/mobile/fullandlite.json",
+  "cacheMode": "https://raw.githubusercontent.com/dragonfamillis-cyber/samp-mobile-content/main/mobile/testalso.json",
 
-  "servers": "https://USERNAME.github.io/REPO/servers.json"
+  "servers": "https://raw.githubusercontent.com/dragonfamillis-cyber/samp-mobile-content/main/mobile/servers.json"
 }
