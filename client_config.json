@@ -1,6 +1,7 @@
 {
     "client_config": {
         "version_code": 86,
+        "url_launcher": "/"
         "url_cache_files": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/lite_list.json",
         "reklam_ayar_durum": 1,
         "admin_nickleri": [
